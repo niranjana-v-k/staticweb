@@ -6,8 +6,8 @@ const Home = () => {
   return (
     <div>
     <div class="lo">
-      <img src={logos} alt="logo" style={{ width:"200", height:"200",borderRadius:"30%"}}></img>
-           <h1>ATMYTECH SOFTWARE SOLUTION</h1>
+      <img src={logos} alt="logo" style={{ width:"50", height:"50",borderRadius:"1000%",margintop:"13%",paddingtop:"3%",float:"left"}}></img>
+           <h1 class="text" style={{color:"white"}}>ATMYTECH SOFTWARE SOLUTION </h1>
            </div>
            
       <Footer/>

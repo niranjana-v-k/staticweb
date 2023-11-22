@@ -29,11 +29,12 @@
 
 .nav-list a {
     text-decoration: none;
-    color: rgb(231, 223, 223);
+    color: rgb(0, 0, 0);
     font-weight: bold;
     font-size: 18px;
     transition: color 0.3s ease, transform 0.2s ease;
     transform-origin: bottom;
+   
     
 }
 
@@ -61,4 +62,7 @@
 .nav-list a[data-link="home"]:hover:before,
 .nav-list a[data-link="contact"]:hover:before {
     transform: scaleX(1);
+}
+.na{
+    background-color: aquamarine;
 }

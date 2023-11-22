@@ -12,7 +12,7 @@ function Navigation() {
       
       </Typography>
     
-        <nav>
+        <nav >
             <ul className="nav-list">
             <li>
               <Link to="/">Home</Link>

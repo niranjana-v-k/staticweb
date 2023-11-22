@@ -1,13 +1,15 @@
-*{
+.lo{
 
-    background-color: black;
-    color:white;
+    background-image: url(https://img.freepik.com/free-vector/green-futuristic-waves-background-with-computer-code-technology_53876-119585.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:rgb(254, 252, 252);
 }
-h1{
-    line-height: 20%;
-
-  font-size: 40px;
-  padding-bottom: 45px;
-  margin-top: 50px;
-  padding-bottom: 45%;
+.text{
+    line-height: 120%;
+  color:white;
+    font-size: 40px;
+    padding-bottom: 35px;
+    margin-top: 70px;
+    padding-top:6% ;
 }
